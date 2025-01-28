@@ -2,7 +2,7 @@
 
 Submitted by: Hunter Smith
 
-Hello World Intro App is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+Hello World Intro App is an Android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
 Time spent: 3 hours spent in total
 
@@ -30,7 +30,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This was an entertaining intro app to introduce Kotlin. I can see why people enjoy this newer programming language for mobile development in comparison to Java.
 
 ## License
 
