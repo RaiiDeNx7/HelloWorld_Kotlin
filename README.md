@@ -1,10 +1,10 @@
-# Android Prework - Hello World Intro App
+# Android Prework - *Hello World Intro App*
 
-Submitted by: Hunter Smith
+Submitted by: **Hunter Smith**
 
-Hello World Intro App is an Android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Hello World Intro App** is an Android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: 3 hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -25,8 +25,7 @@ Here's a walkthrough of implemented features:
 <img src='https://i.imgur.com/ZvKXvkK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-[ScreenToGif](https://www.screentogif.com/) for Windows
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
